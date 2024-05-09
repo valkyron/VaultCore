@@ -2,7 +2,7 @@
 
 A decentralized file chat app built with [GUN](https://gun.eco/). 
 
-A further variation of Fireships' <a href = "https://github.com/fireship-io/gun-chat/tree/main">Fireship's Gun Chat</a>
+A further variation of <a href = "https://github.com/fireship-io/gun-chat/tree/main">Fireship's Gun Chat</a>
 
 Code Logic:
 - Use IPFS to get hash
