@@ -14,6 +14,9 @@ npm install
 npm run dev
 ```
 
+![file chat app](images/gundb-single.PNG)
+
+
 ### Compile to APK
 ```
 npm install @capacitor/core @capacitor/cli @capacitor/android
@@ -24,6 +27,11 @@ npx cap open android
 ```
 
 You can also add the functionality to create multiple chats as 'chat rooms' and share them to other users. Will add that code for reference here too. 
+
+![chatroom logic](images/gundb-chat-rooms.PNG)
+
+![file chatroom app](images/gundb-multiple.PNG)
+
 
 ### Future Scope
 - improve rudimentary frontend
