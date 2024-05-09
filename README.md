@@ -26,7 +26,7 @@ npx cap add android
 npx cap open android
 ```
 
-You can also add the functionality to create multiple chats as 'chat rooms' and share them to other users. Will add that code for reference here too. 
+You can also add the functionality to create multiple chats as 'chat rooms' and share them to other users. Starter code is added in [chat-room](src/chat-room/)
 
 ![chatroom logic](images/gundb-chat-rooms.PNG)
 
@@ -34,5 +34,5 @@ You can also add the functionality to create multiple chats as 'chat rooms' and 
 
 
 ### Future Scope
-- improve rudimentary frontend
-- add images
+- improve frontend
+- integrate chat rooms
