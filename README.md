@@ -1,4 +1,4 @@
-# GUN File Chat Demo
+# VaultCore - a Distributed Gun File Chat
 
 A decentralized file chat app built with [GUN](https://gun.eco/). 
 
